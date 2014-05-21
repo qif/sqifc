@@ -1,4 +1,4 @@
-qifc
+sqifc
 ====
 
 Symbolic Quantitative Information Flow Analysis for C
