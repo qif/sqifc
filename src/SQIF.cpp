@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : QIFC
+// Name        : SQIFC
 // Author      : Quoc-Sang Phan <dark2bright@gmail.com>
 // Version     : 0.1
 // Copyright   : No
