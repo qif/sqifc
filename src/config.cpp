@@ -1,9 +1,9 @@
 //============================================================================
-// Name        : SQIF
+// Name        : QIFC
 // Author      : Quoc-Sang Phan <dark2bright@gmail.com>
 // Version     : 0.1
 // Copyright   : No
-// Description : Symbolic Quantitative Information Flow
+// Description : Symbolic Quantitative Information Flow Analysis for C
 //============================================================================
 
 #include "config.h"

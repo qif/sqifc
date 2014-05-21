@@ -1,0 +1,10 @@
+size = 31
+policy = 512
+
+#cbmc = /usr/bin/./cbmc 
+#driver = /home/qsp/WIP/qifc/test/driver.c
+#tmp = /home/qsp/WIP/qifc/test/tmp.c
+
+cbmc = /homes/qsp30/Programs/cbmc-4-7-linux-64/./cbmc
+driver = /homes/qsp30/WIP/qifc/test/driver.c
+tmp = /homes/qsp30/WIP/qifc/test/tmp.c
