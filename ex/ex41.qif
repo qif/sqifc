@@ -1,0 +1,14 @@
+size = 31
+
+cbmc = /usr/bin/./cbmc 
+driver = /home/qsp/WIP/qifc/sqif/ex/driver.c
+tmp = /home/qsp/WIP/qifc/sqif/ex/tmp.c
+
+#cbmc = /homes/qsp30/Programs/cbmc-4-0-linux-64/./cbmc 
+#driver = /homes/qsp30/WIP/qifc/sqif/ex/driver.c
+#tmp = /homes/qsp30/WIP/qifc/sqif/ex/tmp.c
+
+# N = 16
+# Number of calls to cbmc: 925
+# Maximum leakage: 4
+
